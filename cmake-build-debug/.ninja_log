@@ -1,0 +1,13 @@
+# ninja log v6
+11	152	7541763253247120	CMakeFiles/untitled47.dir/funzioni.c.obj	fb53acfc1adf2e31
+4	154	7541763253181784	CMakeFiles/untitled47.dir/main.c.obj	1088c46ea94c456f
+154	313	7541763254679785	untitled47.exe	7f21bb37e25dec38
+4	82	7541766196842820	CMakeFiles/untitled47.dir/funzioni.c.obj	fb53acfc1adf2e31
+82	179	7541766197619447	untitled47.exe	7f21bb37e25dec38
+4	73	7541767062492146	CMakeFiles/untitled47.dir/main.c.obj	1088c46ea94c456f
+74	153	7541767063184080	untitled47.exe	7f21bb37e25dec38
+5	73	7541767105340252	CMakeFiles/untitled47.dir/main.c.obj	1088c46ea94c456f
+73	160	7541767106017734	untitled47.exe	7f21bb37e25dec38
+36	133	7541796960343726	CMakeFiles/untitled47.dir/funzioni.c.obj	fb53acfc1adf2e31
+27	146	7541796960262995	CMakeFiles/untitled47.dir/main.c.obj	1088c46ea94c456f
+146	272	7541796961441780	untitled47.exe	7f21bb37e25dec38
